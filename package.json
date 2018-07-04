@@ -1,0 +1,10 @@
+{
+  "name": "empty",
+  "version": "1.0.0",
+  "description": "Nothing in package",
+  "keywords": [
+    "empty",
+    "nothing"
+  ],
+  "main": "index.js"
+}
